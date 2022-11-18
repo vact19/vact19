@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+이메일
+chj6703@gmail.com
+
+블로그
+https://moolzumdao.tistory.com/
+
 <!--
 **vact19/vact19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
