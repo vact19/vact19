@@ -14,6 +14,9 @@ https://moolzumdao.tistory.com/
   </ul>
 </details>
 
+<h3>Status</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vact19&layout=compact&theme=blue"/>
 
 
 
