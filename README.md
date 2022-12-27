@@ -4,7 +4,7 @@
 chj6703@gmail.com
 
 블로그
-https://moolzumdao.tistory.com/
+비밀
 
 
 <details>
