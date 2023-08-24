@@ -4,7 +4,7 @@
 chj6703@gmail.com
 
 블로그
-비밀
+https://moolzumdao.tistory.com
 
 
 <details>
@@ -14,9 +14,6 @@ chj6703@gmail.com
   </ul>
 </details>
 
-<h3>Status</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vact19&layout=compact&theme=blue"/>
 
 
 
